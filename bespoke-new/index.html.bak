@@ -1,0 +1,1047 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="HTML5 Template" />
+<meta name="description" content="Sylin - Beauty salon and Spa HTML Template" />
+<meta name="author" content="https://www.themetechmount.com/" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Bespoke Ladies salon
+</title>
+
+<!-- favicon icon -->
+<link rel="shortcut icon" href="images/favicon.png" />
+
+<!-- bootstrap -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+
+<!-- animate -->
+<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+
+<!-- owl-carousel -->
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+
+<!-- fontawesome -->
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+
+<!-- themify -->
+<link rel="stylesheet" type="text/css" href="css/themify-icons.css"/>
+
+<!-- flaticon -->
+<link rel="stylesheet" type="text/css" href="css/flaticon.css"/>
+
+
+<!-- REVOLUTION LAYERS STYLES -->
+
+    <link rel="stylesheet" type="text/css" href="revolution/css/rs6.css">
+
+<!-- prettyphoto -->
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+
+<!-- shortcodes -->
+<link rel="stylesheet" type="text/css" href="css/shortcodes.css"/>
+
+<!-- main -->
+<link rel="stylesheet" type="text/css" href="css/main.css"/>
+
+<!-- responsive -->
+<link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+
+</head>
+
+<body>
+
+    <!--page start-->
+    <div class="page">
+
+        <!-- preloader start -->
+        <div id="preloader">
+          <div id="status">&nbsp;</div>
+        </div>
+        <!-- preloader end -->
+
+        <!--header start-->
+        <header id="masthead" class="header ttm-header-style-01">
+            
+            <!-- ttm-header-wrap -->
+            <div class="ttm-header-wrap">
+                <!-- ttm-stickable-header-w -->
+                <div id="ttm-stickable-header-w" class="ttm-stickable-header-w clearfix">
+                    <!-- ttm-topbar-wrapper -->
+                    <div class="ttm-topbar-wrapper ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
+                        <div class="container">
+                            <div class="row">
+                                    <div class="col-12">
+                                    <div class="ttm-topbar-content">
+                                        <ul class="top-contact text-left">
+                                            <li><i class="fa fa-map-marker ttm-textcolor-skincolor"></i>Suite # 2302
+Aspin Commercial Tower
+Next to Shangri La Hotel
+Dubai</li>
+                                            <li><i class="fa fa-clock-o ttm-textcolor-skincolor"></i><a href="#">Daily: 10am to 9pm</a></li>
+                                        </ul>
+                                        <div class="topbar-right text-right">
+                                            <div class="ttm-social-links-wrapper list-inline">
+                                                <ul class="social-icons">
+                                                    <li><a href="#" class=" tooltip-bottom" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                                                    </li>
+                                                    <li><a href="#" class=" tooltip-bottom" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                                                    </li>
+                                                    <li><a href="#" class=" tooltip-bottom" data-tooltip="Flickr"><i class="fa fa-flickr"></i></a>
+                                                    </li>
+                                                    <li><a href="#" class=" tooltip-bottom" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="header-btn">
+                                                <a class="ttm-btn ttm-btn-size-md ttm-btn-style-fill ttm-btn-color-skincolor" href="#">Get An Appointment!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- ttm-topbar-wrapper end -->
+                    <div id="site-header-menu" class="site-header-menu">
+                        <div class="site-header-menu-inner ttm-stickable-header">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <!--site-navigation -->
+                                        <div id="site-navigation" class="site-navigation d-flex flex-row">
+                                            <div class="site-branding mr-auto">
+                                                <!-- site-branding -->
+                                                <a class="home-link" href="index.html" title="Bespoke Ladies Salon Dubai" rel="home">
+                                                    <img id="logo-img" class="img-center lazyload" src="images/bespoke-logo.jpg" alt="spa and salon logo in dubai">
+                                                </a>
+                                                            <!-- site-branding end -->                   
+                                            </div>
+                                            <div class="ttm-menu-toggle">
+                                                <input type="checkbox" id="menu-toggle-form" />
+                                                <label for="menu-toggle-form" class="ttm-menu-toggle-block">
+                                                    <span class="toggle-block toggle-blocks-1"></span>
+                                                    <span class="toggle-block toggle-blocks-2"></span>
+                                                    <span class="toggle-block toggle-blocks-3"></span>
+                                                </label>
+                                            </div>
+                                            <nav id="menu" class="menu">
+                                                <ul class="dropdown">
+                                                   <li class="active"><a href="#">Home</a>
+                                                        
+                                                    </li>
+                                                    <li><a href="#">pages</a>
+                                                        <ul>
+                                                            <li><a href="aboutus.html">about us</a></li>
+                                                            <li><a href="#">services</a></li>
+                                                             
+                                                             
+                                                            <li><a href="our-team.html">our team</a></li>
+                                                            
+                                                           
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="#">services</a>
+                                                        <ul>
+                                                            <li><a href="#">Nails</a></li>
+                                                            <li><a href="#">Facial</a></li>
+                                                            <li><a href="#">Waxing</a></li>
+                                                            <li><a href="#">Body Massage</a></li>
+                                                            <li><a href="#">Hair Treatment</a></li>
+                                                            <li><a href="#">Eyelash Extension</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="#">gallery</a></li>
+                                                     
+                                                    <li><a href="#">CONTACT US</a></li>
+                                                </ul>
+                                            </nav>
+                                        </div><!-- site-navigation end-->
+                                    </div>
+                                </div>                              
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- ttm-stickable-header-w end-->
+            </div><!--ttm-header-wrap end -->
+
+        </header><!--header end-->
+
+        <!-- START homebanner -->
+        <rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery">
+            <rs-module id="rev_slider_2_1" style="" data-version="6.1.3" class="rev_slider_1_1_height">
+                <!-- rs-slides -->    
+                <rs-slides>
+                    <!-- rs-slide -->
+                    <rs-slide data-key="rs-3" data-title="Slide" data-thumb="images/slides/slider-mainbg-007.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slidingoverlayhorizontal;sl:d;">
+                        <img src="images/slides/slider-mainbg-007.jpg" title="home-mainslider-bg001" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                        <rs-layer
+                                id="slider-2-slide-3-layer-0" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:80px,80px,-103px,-62px;"
+                                data-text="w:normal;s:60,60,40,30;l:100,100,62,38;"
+                                data-frame_0="sX:0.9;sY:0.9;"
+                                data-frame_1="st:160;sp:500;sR:160;"
+                                data-frame_999="o:0;st:w;sR:8340;"
+                                style="z-index:9;font-family:Herr Von Muellerhoff;"
+                            ><span class="ttm-textcolor-skincolor">Best Salon For Ladies </span> 
+                        </rs-layer>
+                        
+                        <rs-layer
+                                id="slider-2-slide-3-layer-1" 
+                                data-type="shape"
+                                data-rsp_ch="on"
+                                data-xy="xo:55px,55px,-490px,-302px;y:m;yo:272px,272px,-60px,-37px;"
+                                data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
+                                data-dim="w:30px,30px,18px,11px;h:1px;"
+                                data-vbility="t,t,f,f"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:50;sp:500;sR:50;"
+                                data-frame_999="o:0;st:w;sR:8450;"
+                                style="z-index:8;background-color:#ffffff;font-family:Roboto;"
+                            > 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-3-layer-2" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:212px,212px,5px,21px;"
+                                data-text="w:normal;s:60,60,47,33;l:90,90,56,34;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:750;sp:1000;sR:750;"
+                                data-frame_999="o:0;st:w;sR:7250;"
+                                style="z-index:11;font-family:Nimbus Roman No9 L;"
+                            ><span class="slider-heding-title-font">   get Pampered</span> 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-3-layer-3" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:146px,146px,-49px,-20px;"
+                                data-text="w:normal;s:60,60,47,33;l:90,90,56,34;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:510;sp:1000;sR:510;"
+                                data-frame_999="o:0;st:w;sR:7490;"
+                                style="z-index:10;font-family:Nimbus Roman No9 L;"
+                            ><span class="slider-heding-title-font">THE BEST  PLACE</span> 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-3-layer-4" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:98px,98px,0,430px;y:m;yo:275px,275px,50px,32px;"
+                                data-text="w:normal;s:18,18,16,9;l:28,28,17,10;"
+                                data-vbility="t,t,t,f"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:1020;sp:1000;sR:1020;"
+                                data-frame_999="o:0;st:w;sR:6980;"
+                                style="z-index:12;font-family:Poppins;font-style:italic;"
+                            >Professional Beauty Center in Dubai
+							
+                        </rs-layer>
+                        <a
+                                id="slider-2-slide-3-layer-7" 
+                                class="rs-layer ttm-btn ttm-btn-style-border ttm-btn-color-skincolor"
+                                href="#" target="_self" rel="nofollow"
+                                data-type="text"
+                                data-color="#fc84b4"
+                                data-rsp_ch="on"
+                                data-xy="x:r,r,c,c;xo:40px,40px,0,0;y:m;yo:163px,163px,105px,73px;"
+                                data-text="w:normal;s:15,15,14,12;l:20,20,12,10;fw:500;"
+                                data-padding="t:15,15,12,10;r:35,35,25,20;b:15,15,12,10;l:35,35,25,20;"
+                                data-border="bos:solid;boc:#fc84b4;bow:1px,1px,1px,1px;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:1100;sp:600;sR:1100;"
+                                data-frame_999="o:0;st:w;sR:7300;"
+                                data-frame_hover="c:#fff;bgc:#fc84b4;boc:#fc84b4;bos:solid;bow:1px,1px,1px,1px;"
+                                style="z-index:13;font-family:Poppins;margin-right: 15px;"
+                            >Get An Appointment! 
+                        </a>
+                    </rs-slide>
+                    <!-- rs-slide -->
+                    <!-- rs-slide -->
+                    <rs-slide data-key="rs-4" data-title="Slide" data-thumb="images/slides/slider-mainbg-001.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slidingoverlayhorizontal;sl:d;">
+                        <img src="images/slides/slider-mainbg-001.jpg" title="home-mainslider-bg001" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                        <rs-layer
+                                id="slider-2-slide-4-layer-0" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:80px,80px,-103px,-62px;"
+                                data-text="w:normal;s:60,60,40,30;l:100,100,62,38;"
+                                data-frame_0="sX:0.9;sY:0.9;"
+                                data-frame_1="st:160;sp:500;sR:160;"
+                                data-frame_999="o:0;st:w;sR:8340;"
+                                style="z-index:9;font-family:Herr Von Muellerhoff;"
+                            ><span class="ttm-textcolor-skincolor">Best Place for</span> 
+                        </rs-layer>
+                        
+                        <rs-layer
+                                id="slider-2-slide-4-layer-1" 
+                                data-type="shape"
+                                data-rsp_ch="on"
+                                data-xy="xo:55px,55px,-490px,-302px;y:m;yo:272px,272px,-60px,-37px;"
+                                data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
+                                data-dim="w:30px,30px,18px,11px;h:1px;"
+                                data-vbility="t,t,f,f"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:50;sp:500;sR:50;"
+                                data-frame_999="o:0;st:w;sR:8450;"
+                                style="z-index:8;background-color:#ffffff;font-family:Roboto;"
+                            > 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-4-layer-2" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:212px,212px,5px,21px;"
+                                data-text="w:normal;s:60,60,47,33;l:90,90,56,34;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:750;sp:1000;sR:750;"
+                                data-frame_999="o:0;st:w;sR:7250;"
+                                style="z-index:11;font-family:Nimbus Roman No9 L;"
+                            ><span class="slider-heding-title-font">TO RELAX WITH BESPOKE SPA</span> 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-4-layer-3" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:55px,55px,0,0;y:m;yo:146px,146px,-49px,-20px;"
+                                data-text="w:normal;s:60,60,47,33;l:90,90,56,34;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:510;sp:1000;sR:510;"
+                                data-frame_999="o:0;st:w;sR:7490;"
+                                style="z-index:10;font-family:Nimbus Roman No9 L;"
+                            ><span class="slider-heding-title-font">THE BEST PLACE</span> 
+                        </rs-layer>
+                        <rs-layer
+                                id="slider-2-slide-4-layer-4" 
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="x:l,l,c,c;xo:98px,98px,0,430px;y:m;yo:275px,275px,50px,32px;"
+                                data-text="w:normal;s:18,18,16,9;l:28,28,17,10;"
+                                data-vbility="t,t,t,f"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:1020;sp:1000;sR:1020;"
+                                data-frame_999="o:0;st:w;sR:6980;"
+                                style="z-index:12;font-family:Poppins;font-style:italic;"
+                            >Professional Beauty Center in Dubai. 
+                        </rs-layer>
+                        <a
+                                id="slider-2-slide-3-layer-7" 
+                                class="rs-layer ttm-btn ttm-btn-style-border ttm-btn-color-skincolor"
+                                href="#" target="_self" rel="nofollow"
+                                data-type="text"
+                                data-color="#fc84b4"
+                                data-rsp_ch="on"
+                                data-xy="x:r,r,c,c;xo:40px,40px,0,0;y:m;yo:163px,163px,105px,73px;"
+                                data-text="w:normal;s:15,15,14,12;l:20,20,12,10;fw:500;"
+                                data-padding="t:15,15,12,10;r:35,35,25,20;b:15,15,12,10;l:35,35,25,20;"
+                                data-border="bos:solid;boc:#fc84b4;bow:1px,1px,1px,1px;"
+                                data-frame_0="sX:0.8;sY:0.8;"
+                                data-frame_1="e:Power4.easeOut;st:1100;sp:600;sR:1100;"
+                                data-frame_999="o:0;st:w;sR:7300;"
+                                data-frame_hover="c:#fff;bgc:#fc84b4;boc:#fc84b4;bos:solid;bow:1px,1px,1px,1px;"
+                                style="z-index:13;font-family:Poppins;margin-right: 15px;"
+                            >Get An Appointment! 
+                        </a>
+                    </rs-slide>
+                    <!-- rs-slide -->
+                </rs-slides>
+                <rs-static-layers></rs-static-layers>
+                <rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+            </rs-module><!-- rs-module -->   
+            
+        </rs-module-wrap>
+        <!-- END homebanner -->
+
+        <!--site-main start-->
+        <div class="site-main">
+
+            <!-- about us-section -->
+            <section class="ttm-row aboutus-section clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 res-767-center">                            
+                            <img src="images/14.jpg" class="img-fluid" alt="single-img-one">
+                        </div>
+                        <div class="col-md-6 res-767-pt-30">
+                            <!--  featured-icon-box --> 
+                            <div class="spacing-1">
+                                <!-- section title -->
+	                            <div class="section-title with-desc clearfix res-1199-mb-0">
+	                                <div class="title-header">
+	                                    <h5 class="ttm-textcolor-skincolor">Beauty & Wellness </h5>
+	                                    <h2 class="title"> EXPERTISE & HOME OF ALL AROUND BEAUTY TREATMENTS
+
+										 .</h2>
+	                                </div>
+	                                <div class="title-desc">There’s nothing more luxurious and relaxing than a trip to the spa & Salon. We offer a wide variety of body spa therapies to help you heal your body naturally. Get relaxed from stressed & hectic schedule.</div>
+	                            </div><!-- section title end -->
+								
+								
+								
+	                            <div class="row justify-content-space-between">
+	                            	<div class="col-lg-3 col-md-6 col-sm-3 col-6 featured-icon-box style1 text-center res-575-w-50">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-size-lg"> 
+                                                <i class="flaticon-spa ttm-textcolor-skincolor"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>Massage and Spa</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6 col-sm-3 col-6 featured-icon-box style1 text-center res-575-w-50">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-size-lg"> 
+                                                <i class="flaticon-wellness ttm-textcolor-skincolor"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>Waxing</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6 col-sm-3 col-6 featured-icon-box style1 text-center res-575-w-50">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-size-lg"> 
+                                                <i class="flaticon-hammam ttm-textcolor-skincolor"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>Nails</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6 col-sm-3 col-6 featured-icon-box style1 text-center res-575-w-50">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-size-lg"> 
+                                                <i class="flaticon-person-silhouette-in-sauna ttm-textcolor-skincolor"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>Facial | Eyelashes</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+	                            </div>
+                                <p class="mt-40 res-1199-mt-20 res-1199-mb-0">Everybody is looking for places where to relax and get more energy. In our wellness center silence, energy, beauty and vitality meet. The treatments we offer will refresh both your body and soul. We’ll be glad to welcome you and recommend our facilities and services.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- about us-section end -->
+
+            <!-- service-section-->
+            <section class="ttm-row service-section bg-img1 clearfix">
+                <div class="container">
+                    <div class="row"><!-- row -->
+                        <div class="col-lg-7 col-md-7 col-sm-9 m-auto">
+                            <!-- section title -->
+                            <div class="section-title with-desc text-center clearfix">
+                                <div class="title-header">
+                                    <h5 class="ttm-textcolor-skincolor">Welcome</h5>
+                                    <h2 class="title">EXPLORE Our Services</h2>      <h2 class="title">testtt</h2>
+                                </div>
+                                <div class="title-desc">Being the pampering connoisseurs that we are, we have discovered some wonderful spa services…To relax mind & body!</div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
+                    <!-- row end -->
+                    <div class="row">
+                        <div class="services-slide owl-carousel" data-item="4" data-nav="false" data-dots="false" data-auto="false">
+                            <div class="featured-imagebox featured-imagebox-services text-center style1">
+                                <div class="ttm-post-thumbnail featured-thumbnail"> 
+                                    <img class="img-fluid" src="images/services/01.jpg" alt="image"> 
+                                    <div class="featured-icon">
+                                        <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-rounded"> 
+                                            <i class="flaticon-herbal"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5><a href="services-details.html">Face Massage</a></h5>
+                                    </div>
+                                    <div class="featured-desc"><!-- featured-title -->
+                                        <p>To reverse the ageing effect from the skin, try our face hydration treatment to get a youthful glow</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="featured-imagebox featured-imagebox-services text-center style1">
+                                <div class="ttm-post-thumbnail featured-thumbnail"> 
+                                    <img class="img-fluid" src="images/services/02.jpg" alt="image"> 
+                                    <div class="featured-icon">
+                                        <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-rounded"> 
+                                            <i class="flaticon-spa-1"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5><a href="services-details.html">Back Massage</a></h5>
+                                    </div>
+                                    <div class="featured-desc"><!-- featured-title -->
+                                        <p>To reverse the ageing effect from the skin, try our face hydration treatment to get a youthful glow</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="featured-imagebox featured-imagebox-services text-center style1">
+                                <div class="ttm-post-thumbnail featured-thumbnail"> 
+                                    <img class="img-fluid" src="images/services/03.jpg" alt="image"> 
+                                    <div class="featured-icon">
+                                        <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-rounded"> 
+                                            <i class="flaticon-spa"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5><a href="services-details.html">Hair Treatment</a></h5>
+                                    </div>
+                                    <div class="featured-desc"><!-- featured-title -->
+                                        <p>We offer the professional hair care for all hair types discover the best hair treatments, for healthy.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="featured-imagebox featured-imagebox-services text-center style1">
+                                <div class="ttm-post-thumbnail featured-thumbnail"> 
+                                    <img class="img-fluid" src="images/services/04.jpg" alt="image"> 
+                                    <div class="featured-icon">
+                                        <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-rounded"> 
+                                            <i class="flaticon-cupping"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5><a href="services-details.html">Skin Care</a></h5>
+                                    </div>
+                                    <div class="featured-desc"><!-- featured-title -->
+                                        <p>you’ll get therapies like panchakarma treatment which can help you for living a healthy life.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- service-section end-->
+			<!-- testimonial-section -->
+            <section class="ttm-row testimonial-section clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 text-right pt-80 res-767-pt-0">
+                            <div class="testimonial-wrapper ttm-quotestyle-row">
+                                    <!-- col-img-img-one -->
+                                    <div class="spacing-2 col-bg-img-one ttm-col-bgimage-yes ttm-bg res-767-h-auto">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                        <div class="layer-content h-100">
+                                            <!-- section title -->
+                                            <div class="section-title with-desc clearfix">
+                                                <div class="title-header">
+                                                    <h5 class="ttm-textcolor-skincolor">Testimonials</h5>
+                                                    <h2 class="title">WHAT OUR CLIENTS SAYING</h2>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-slide style2 owl-carousel" data-item="1" data-nav="false" data-dots="false" data-auto="false">
+                                                <div class="testimonials style2"> 
+                                                    <div class="testimonial-content">
+                                                        <p>I received a lymphatic massage, Aba was fantastic. The spa is clean, upscale decor and overall ambience are delightful. I will   patronize Ecobel for a variety of services they offer.</p>
+                                                        
+                                                        <div class="testimonial-caption">
+                                                            <h6>Len Rosy Jacbos</h6>
+                                                            <label>Face make-up</label>
+                                                        </div>
+                                                        <div class="testimonial-avatar">
+                                                            <div class="testimonial-img">
+                                                                <img class="img-fluid rounded-circle" src="images/testimonial/01.jpg" alt="testimonial-img">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="testimonials style2"> 
+                                                    <div class="testimonial-content">
+                                                        <p>I received a lymphatic massage, Aba was fantastic. The spa is clean, upscale decor and overall ambience are delightful. I will   patronize Ecobel for a variety of services they offer.</p>
+                                                        <div class="testimonial-avatar">
+                                                            <div class="testimonial-img">
+                                                                <img class="img-fluid rounded-circle" src="images/testimonial/02.jpg" alt="testimonial-img">
+                                                            </div>
+                                                        </div>
+                                                        <div class="testimonial-caption">
+                                                            <h6>Len Rosy Jacbos</h6>
+                                                            <label>Face make-up</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="testimonials style2"> 
+                                                    <div class="testimonial-content">
+                                                        <p>I received a lymphatic massage, Aba was fantastic. The spa is clean, upscale decor and overall ambience are delightful. I will   patronize Ecobel for a variety of services they offer.</p>
+                                                        <div class="testimonial-avatar">
+                                                            <div class="testimonial-img">
+                                                                <img class="img-fluid rounded-circle" src="images/testimonial/03.jpg" alt="testimonial-img">
+                                                            </div>
+                                                        </div>
+                                                        <div class="testimonial-caption">
+                                                            <h6>Scorlett Johanson</h6>
+                                                            <label>Face make-up</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- col-img-bg-img-one end-->
+                            </div>                            
+                        </div>
+                        <div class="col-md-6 text-right">
+                            <div class="ttm-fid-wrapper">
+                                    <!-- col-img-img-two -->
+                                    <div class="spacing-3 res-767-mb-15 ttm-bgcolor-darkgrey ttm-bg ttm-col-bgimage-yes col-bg-img-two res-767-h-auto">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                        <div class="layer-content h-100">
+                                            <div class="row">
+                                                <div class="col-md-6 col-sm-6 col-6 p-0 border-bottom text-center">
+                                                    <div class="ttm-fid inside style1 pt-10">
+                                                        <div class="ttm-fid-center">
+                                                            <div class="ttm-fid-icon-wrapper ttm-textcolor-skincolor">
+                                                                <i class="flaticon-spa"></i>
+                                                            </div>
+                                                            <h4 class="ttm-fid-inner ttm-textcolor-white">
+                                                                <span   data-appear-animation = "animateDigits"
+                                                                    data-from             = "0"
+                                                                    data-to               = "5684"
+                                                                    data-interval         = "100"
+                                                                    data-before           = ""
+                                                                    data-before-style     = "sup"
+                                                                    data-after            = ""
+                                                                    data-after-style      = "sub"
+                                                                >5684</span>
+                                                            </h4>
+                                                        </div>
+                                                        <div class="ttm-fid-contents">
+                                                            <h3 class="ttm-fid-title">Cosmetics</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-6 p-0 border-left border-bottom text-center">
+                                                    <div class="ttm-fid inside style1 pt-10">
+                                                        <div class="ttm-fid-center">
+                                                            <div class="ttm-fid-icon-wrapper ttm-textcolor-skincolor">
+                                                                <i class="flaticon-wellness"></i>
+                                                            </div>
+                                                            <h4 class="ttm-fid-inner ttm-textcolor-white">
+                                                                <span   data-appear-animation = "animateDigits"
+                                                                    data-from             = "0"
+                                                                    data-to               = "7458"
+                                                                    data-interval         = "100"
+                                                                    data-before           = ""
+                                                                    data-before-style     = "sup"
+                                                                    data-after            = ""
+                                                                    data-after-style      = "sub"
+                                                                >7458</span>
+                                                            </h4>
+                                                        </div>
+                                                        <div class="ttm-fid-contents">
+                                                            <h3 class="ttm-fid-title">Subscriber</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-6 p-0 text-center">
+                                                    <div class="ttm-fid inside style1 pb-0">
+                                                        <div class="ttm-fid-center">
+                                                            <div class="ttm-fid-icon-wrapper ttm-textcolor-skincolor">
+                                                                <i class="flaticon-hair-1"></i>
+                                                            </div>
+                                                            <h4 class="ttm-fid-inner ttm-textcolor-white">
+                                                                <span   data-appear-animation = "animateDigits"
+                                                                    data-from             = "0"
+                                                                    data-to               = "7855"
+                                                                    data-interval         = "100"
+                                                                    data-before           = ""
+                                                                    data-before-style     = "sup"
+                                                                    data-after            = ""
+                                                                    data-after-style      = "sub"
+                                                                >7855</span>
+                                                            </h4>
+                                                        </div>
+                                                        <div class="ttm-fid-contents">
+                                                            <h3 class="ttm-fid-title">Total Branches</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-6 p-0 border-left text-center">
+                                                    <div class="ttm-fid inside style1 pb-0">
+                                                        <div class="ttm-fid-center">
+                                                            <div class="ttm-fid-icon-wrapper ttm-textcolor-skincolor">
+                                                                <i class="flaticon-herbal"></i>
+                                                            </div>
+                                                            <h4 class="ttm-fid-inner ttm-textcolor-white">
+                                                                <span   data-appear-animation = "animateDigits"
+                                                                    data-from             = "0"
+                                                                    data-to               = "1458"
+                                                                    data-interval         = "100"
+                                                                    data-before           = ""
+                                                                    data-before-style     = "sup"
+                                                                    data-after            = ""
+                                                                    data-after-style      = "sub"
+                                                                >1458</span>
+                                                            </h4>
+                                                        </div>
+                                                        <div class="ttm-fid-contents">
+                                                            <h3 class="ttm-fid-title">Campigns Done</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- col-img-bg-img-one end-->
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- testimonial section end -->
+            <!-- team-section -->
+            <section class="ttm-row team-section clearfix bg-layer-equal-height res-767-mlr-15">
+                <div class="container-fluid">
+                    <div class="row res-767-pb-40">
+                        <div class="col-md-6">
+                            <!-- col-img-img-three -->
+                            <div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg res-767-h-auto team-bg-wrapper">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            </div><!-- col-img-bg-img-three end-->
+                            <img src="images/bg-image/col-bgimage-3.jpg" class="ttm-equal-height-image img-fluid" alt="bg-image">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="ttm-team-wrapper ttm-quotestyle-row">
+                                <div class="spacing-4 ttm-bgcolor-white">
+                                    <div class="section-title with-desc clearfix">
+                                        <div class="title-header">
+                                            <h5 class="ttm-textcolor-skincolor">Team</h5>
+                                            <h2 class="title">MEET OUR MEMBER</h2>
+                                        </div>
+                                    </div>
+                                    <div class="row team-slide owl-carousel" data-item="3" data-nav="false" data-dots="false" data-auto="false">
+                                        <div class="featured-imagebox featured-imagebox-team style1">
+                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
+                                                <img class="img-fluid" src="images/team-member/team-img01.jpg" alt="image">
+                                                <div class="media-block">
+                                                    <ul class="social-icons list-inline-block"><!-- social-icons -->
+                                                        <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                        <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                                        <li class="social-instagram"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div> 
+                                            <div class="featured-content box-shadow">
+                                                <div class="featured-title"><!-- featured-title -->
+                                                    <h5><a href="team-details.html">Len Rosy Jacbos</a></h5>
+                                                </div>
+                                                <p class="category">Face make-up</p><!-- category -->
+                                            </div>
+                                        </div>
+                                        <div class="featured-imagebox featured-imagebox-team style1">
+                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
+                                                <img class="img-fluid" src="images/team-member/team-img02.jpg" alt="image">
+                                                <div class="media-block">
+                                                    <ul class="social-icons list-inline-block"><!-- social-icons -->
+                                                        <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                        <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                                        <li class="social-instagram"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div> 
+                                            <div class="featured-content box-shadow">
+                                                <div class="featured-title"><!-- featured-title -->
+                                                    <h5><a href="team-details.html">Len Rosy Jacbos</a></h5>
+                                                </div>
+                                                <p class="category">Face make-up</p><!-- category -->
+                                            </div>
+                                        </div>
+                                        <div class="featured-imagebox featured-imagebox-team style1">
+                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
+                                                <img class="img-fluid" src="images/team-member/team-img03.jpg" alt="image">
+                                                <div class="media-block">
+                                                    <ul class="social-icons list-inline"><!-- social-icons -->
+                                                        <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                        <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                                        <li class="social-instagram"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div> 
+                                            <div class="featured-content box-shadow">
+                                                <div class="featured-title"><!-- featured-title -->
+                                                    <h5><a href="team-details.html">Tommy Atkins</a></h5>
+                                                </div>
+                                                <p class="category">Director</p><!-- category -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- team section end -->
+            <!-- gallery-section-section -->
+            <section class="ttm-row gallery-section ttm-bgcolor-grey clearfix">
+                <div class="gallery-title-section ttm-bgcolor-skincolor">
+                    <div class="container">
+                    	<div class="row">
+                    		<div class="col-lg-8 col-md-8 col-sm-9 m-auto">
+                                <!-- section title -->
+                                <div class="section-title with-desc text-center clearfix">
+                                    <div class="title-header">
+                                        <h5>Gallery</h5>
+                                        <h2 class="title">AN INCREDIBLE SPA EXPERIENCE</h2>
+                                    </div>
+                                    <div class="title-desc ttm-textcolor-white pl-50 pr-50 res-767-p-0">Stunning treatment rooms are endowed with lush open air gardens soak bathtub and cushioned daybed built for two.</div>
+                                </div><!-- section title end -->
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+                <div class="container mt_70 res-991-mt_50">
+                    <div class="row res-767-center">
+                        <div class="col-md-4 col-sm-6">
+                            <div class="featured-imagebox-portfolio">
+                                <img class="img-fluid" src="images/gallery/01.jpg" alt="image">
+                                <div class="featured-content-portfolio">
+                                    <a class="ttm_prettyphoto ttm_image ttm-textcolor-skincolor ttm-bgcolor-white" title="" data-gal="" data-rel="prettyPhoto" href="images/gallery/01.jpg"><i class="fa fa-camera"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="featured-imagebox-portfolio res-575-mt-15">
+                                <img class="img-fluid" src="images/gallery/02.jpg" alt="image">
+                                <div class="featured-content-portfolio">
+                                    <a class="ttm_prettyphoto ttm_image ttm-textcolor-skincolor ttm-bgcolor-white" title="" data-gal="" data-rel="prettyPhoto" href="images/gallery/02.jpg"><i class="fa fa-camera"></i></a>
+                                </div>
+                            </div>
+                            <div class="featured-imagebox-portfolio mt-30 res-575-mt-15 res-575-p-0">
+                                <img class="img-fluid" src="images/gallery/03.jpg" alt="image">
+                                <div class="featured-content-portfolio">
+                                    <a class="ttm_prettyphoto ttm_image ttm-textcolor-skincolor ttm-bgcolor-white" title="" data-gal="" data-rel="prettyPhoto" href="images/gallery/03.jpg"><i class="fa fa-camera"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12 res-767-mt-30 res-575-mt-15">
+                            <div class="featured-imagebox-portfolio">
+                                <img class="img-fluid" src="images/gallery/04.jpg" alt="image">
+                                <div class="featured-content-portfolio">
+                                    <a class="ttm_prettyphoto ttm_image ttm-textcolor-skincolor ttm-bgcolor-white" title="" data-gal="" data-rel="prettyPhoto" href="images/gallery/04.jpg"><i class="fa fa-camera"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- gallery-section end -->
+            <!-- process-section  -->
+            <br>
+			<br>
+			<br>
+			<br>
+			<br>
+            <!-- process-section  end-->
+            <!-- contact1-section  -->
+            <section class="ttm-row contact1-section mt_100 clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5 pr-0 res-767-pr-15 res-767-pb-15 text-center"><!-- col-bg-img-four -->
+                            <div class="col-bg-img-four ttm-col-bgimage-yes ttm-bg res-767-h-auto">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            </div>
+                            <img src="images/bg-image/col-bgimage-4.jpg" class="ttm-equal-height-image img-fluid" alt="bg-image">
+                            <!-- col-bg-img-four end-->
+                        </div>
+                        <div class="col-md-7 p-0">
+                            <div class="spacing-5 ttm-bgcolor-darkgrey">
+                                <!-- section title -->
+                                <div class="section-title with-desc clearfix">
+                                    <div class="title-header">
+                                        <h5 class="ttm-textcolor-skincolor">Contactus</h5>
+                                        <h2 class="title ttm-textcolor-white">GET A FREE QUOTES.</h2>
+										<h2 class="title ttm-textcolor-white">GET A APPOINTMENT / DIRECTION</h2>
+                                    </div>
+                                </div><!-- section title end -->
+                                <ul class="appointment-list ttm-textcolor-white p-0">
+                                    <li>
+                                        <div class="time-slot">
+                                            <span class="timeslot-range"><i class="fa fa-clock-o ttm-textcolor-skincolor"></i>&nbsp;&nbsp;10:00 am – 9:00 pm</span>
+                                            <span>Suite # 2302 Aspin Commercial Tower next to Shangri La Hotel Sheikh Zayed Rd Dubai</span>
+                                        </div>
+                                        <div class="appointment-time">
+                                            <button class="ttm-btn ttm-btn-size-xs ttm-btn-style-fill ttm-btn-color-skincolor">  Map Location</button>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="time-slot">
+                                             
+                                            <span> &nbsp;&nbsp; &nbsp;&nbsp; spaces available</span>
+                                        </div>
+                                        <div class="appointment-time">
+                                            <button class="ttm-btn ttm-btn-size-xs ttm-btn-style-fill ttm-btn-color-skincolor">Book Appointment</button>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="time-slot">
+                                           
+                                            <span> &nbsp;&nbsp; &nbsp;&nbsp;  Make a Inquiry</span>
+                                        </div>
+                                        <div class="appointment-time">
+                                            <button class="ttm-btn ttm-btn-size-xs ttm-btn-style-fill ttm-btn-color-skincolor">Calla Now </button>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- contact1-section  -->
+            <!-- blog section -->
+            
+            <!-- blog section end-->            
+        </div><!--site-main end-->
+
+        <!--footer start-->
+        <footer class="footer widget-footer clearfix">
+             
+            <div class="second-footer ttm-textcolor-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 widget-area">
+                            <div class="widget widget_text clearfix">
+                                <h3 class="widget-title">About Us</h3>
+                                <div class="textwidget widget-text">
+                                    <p class="pb-10 res-767-p-0"> short description about bespoke salon </p>
+                                    <p class="pb-10 res-767-p-0">The most innovative products tested & approvby the greatest names in hairdressing.</p>
+                                     
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
+						<div style="margin-top:30px;">
+                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.8297747773477!2d55.27030971408786!3d25.208962483890787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f4289acafffff%3A0xadbc4fe60cf4a953!2sBespoke%20Beauty%20Studio!5e0!3m2!1sen!2s!4v1652989991355!5m2!1sen!2s" width="200" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+						
+						</div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
+                            <div class="widget flicker_widget clearfix">
+                               <h3 class="widget-title">Get In  Touch</h3>
+                               <div class="textwidget widget-text">
+                                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style3">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-sm">
+                                                <i class="fa fa-map-marker"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-desc">
+                                                <p>23 floor Suite # 2302 Aspin Commercial Tower<br>Nex to Shangri La Hotel Sheikh Zayed Rd Dubai, UAE </p>
+												<p>Easy access from Financial Metro Station </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style3">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-sm">
+                                                <i class="fa fa-envelope-o"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-desc">
+                                                <p><a href="mailto: hello@bespokebeautystudio.com"> hello@bespokebeautystudio.com</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style3">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-sm">
+                                                <i class="fa fa-phone"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-desc">
+                                                <p>+971 4-388-7877</p>
+												<p>+971-56-6661682</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-footer-text">
+                <div class="container">
+                    <div class="row copyright">
+                        <div class="col-md-9">
+                            <div class="ttm-textcolor-white">
+                                <span>Copyright &copy; 2016-2022&nbsp;<a class="ttm-textcolor-skincolor" href="#">Bespoke Beauty Studio</a>  </span>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="d-flex flex-row align-items-center justify-content-end social-icons">
+                            <ul class="social-icons list-inline">
+                                <li><a href="#" class=" tooltip-top" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li><a href="#" class=" tooltip-top" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li><a href="#" class=" tooltip-top" data-tooltip="Flickr"><i class="fa fa-flickr"></i></a>
+                                </li>
+                                <li><a href="#" class=" tooltip-top" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--footer end-->
+
+        <!--back-to-top start-->
+        <a id="totop" href="#top">
+            <i class="fa fa-angle-up"></i>
+        </a>
+        <!--back-to-top end-->
+
+    </div><!-- page end -->
+
+        <!-- Javascript -->
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/tether.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.easing.js"></script>    
+        <script src="js/jquery-waypoints.js"></script>    
+        <script src="js/jquery-validate.js"></script> 
+        <script src="js/owl.carousel.js"></script>
+        <script src="js/jquery.prettyPhoto.js"></script>
+        <script src="js/numinate.min.js?ver=4.9.3"></script>
+        <script src="js/lazysizes.min.js"></script>
+        <script src="js/main.js"></script>
+
+        <!-- Revolution Slider -->
+        <script src="revolution/js/revolution.tools.min.js"></script>
+        <script src="revolution/js/rs6.min.js"></script>
+        <script src="revolution/js/slider.js"></script>
+		
+
+        <!-- Javascript end-->
+
+</body>
+</html>
